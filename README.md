@@ -1,7 +1,7 @@
 # qt_apps
  Desktop Applications with Qt5
 
-**Setup Virtual Environemnt **
+# Setup Virtual Environemnt 
 
 # using pip
 pip install -r requirements.txt
