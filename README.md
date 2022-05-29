@@ -12,4 +12,7 @@ conda create --name <env_name> --file requirements.txt
 # To Run Program 
 python trivia.py 
 
+# database for quiz 
+https://opentdb.com/api_config.php 
+
 # To convert to exe 
