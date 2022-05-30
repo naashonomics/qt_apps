@@ -16,3 +16,4 @@ python trivia.py
 https://opentdb.com/api_config.php 
 
 # To convert to exe 
+Run auto-py-to-exe 
